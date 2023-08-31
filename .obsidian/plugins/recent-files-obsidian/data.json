@@ -1,0 +1,187 @@
+{
+  "recentFiles": [
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Git到Github",
+      "path": "C++学习/Git到Github.md"
+    },
+    {
+      "basename": "6.step build目录介绍",
+      "path": "C++学习/cmake/6.step build目录介绍.md"
+    },
+    {
+      "basename": "5.step 添加库的使用要求",
+      "path": "C++学习/cmake/5.step 添加库的使用要求.md"
+    },
+    {
+      "basename": "4.step 将库设置为可选项",
+      "path": "C++学习/cmake/4.step 将库设置为可选项.md"
+    },
+    {
+      "basename": "cmake",
+      "path": "C++学习/cmake/cmake.md"
+    },
+    {
+      "basename": "3.step 添加库",
+      "path": "C++学习/cmake/3.step 添加库.md"
+    },
+    {
+      "basename": "2.step",
+      "path": "C++学习/cmake/2.step.md"
+    },
+    {
+      "basename": "1.step 构建最小项目",
+      "path": "C++学习/cmake/1.step 构建最小项目.md"
+    },
+    {
+      "basename": "0.step",
+      "path": "C++学习/cmake/0.step.md"
+    },
+    {
+      "basename": "git",
+      "path": "C++学习/git.md"
+    },
+    {
+      "basename": "C++ leran note",
+      "path": "C++学习/C++ leran note.md"
+    },
+    {
+      "basename": "2.1 生产者消费者模型",
+      "path": "C++多线程/2.1 生产者消费者模型.md"
+    },
+    {
+      "basename": "2.2 线程池的实现",
+      "path": "C++多线程/2.2 线程池的实现.md"
+    },
+    {
+      "basename": "深入剖析c++11 thread",
+      "path": "C++多线程/深入剖析c++11 thread.md"
+    },
+    {
+      "basename": "nullptr & NULL",
+      "path": "C++学习/nullptr & NULL.md"
+    },
+    {
+      "basename": "1.5 packaged_task async",
+      "path": "C++多线程/1.5 packaged_task async.md"
+    },
+    {
+      "basename": "1.1 创建线程",
+      "path": "C++多线程/1.1 创建线程.md"
+    },
+    {
+      "basename": "1.2 互斥量",
+      "path": "C++多线程/1.2 互斥量.md"
+    },
+    {
+      "basename": "1.3 条件变量 信号量",
+      "path": "C++多线程/1.3 条件变量 信号量.md"
+    },
+    {
+      "basename": "1.4 promise future",
+      "path": "C++多线程/1.4 promise future.md"
+    },
+    {
+      "basename": "2ea4a51e7e818cb5f8d3efdfea723964",
+      "path": "Obsidian Platform/image_dir/2ea4a51e7e818cb5f8d3efdfea723964.jpg"
+    },
+    {
+      "basename": "nemu优美的退出问题",
+      "path": "PA/nemu优美的退出问题.md"
+    },
+    {
+      "basename": "「代码随想录」贪心算法专题精讲（v2.0）",
+      "path": "代码随想录算法PDF/「代码随想录」贪心算法专题精讲（v2.0）.pdf"
+    },
+    {
+      "basename": "53.最长回文子序列",
+      "path": "代码随想录学习笔记/动态规划/53.最长回文子序列.md"
+    },
+    {
+      "basename": "54.动态规划总结",
+      "path": "代码随想录学习笔记/动态规划/54.动态规划总结.md"
+    },
+    {
+      "basename": "52.回文子串",
+      "path": "代码随想录学习笔记/动态规划/52.回文子串.md"
+    },
+    {
+      "basename": "50.编辑距离",
+      "path": "代码随想录学习笔记/动态规划/50.编辑距离.md"
+    },
+    {
+      "basename": "51.编辑距离总结",
+      "path": "代码随想录学习笔记/动态规划/51.编辑距离总结.md"
+    },
+    {
+      "basename": "49.两个字符串的删除操作",
+      "path": "代码随想录学习笔记/动态规划/49.两个字符串的删除操作.md"
+    },
+    {
+      "basename": "48.不同的子序列",
+      "path": "代码随想录学习笔记/动态规划/48.不同的子序列.md"
+    },
+    {
+      "basename": "47.判断子序列",
+      "path": "代码随想录学习笔记/动态规划/47.判断子序列.md"
+    },
+    {
+      "basename": "46.最大子序和",
+      "path": "代码随想录学习笔记/动态规划/46.最大子序和.md"
+    },
+    {
+      "basename": "45.不相交的线",
+      "path": "代码随想录学习笔记/动态规划/45.不相交的线.md"
+    },
+    {
+      "basename": "44.最长公共子序列",
+      "path": "代码随想录学习笔记/动态规划/44.最长公共子序列.md"
+    },
+    {
+      "basename": "43.最长重复子数组",
+      "path": "代码随想录学习笔记/动态规划/43.最长重复子数组.md"
+    },
+    {
+      "basename": "42.最长连续递增序列",
+      "path": "代码随想录学习笔记/动态规划/42.最长连续递增序列.md"
+    },
+    {
+      "basename": "41.最长上升子序列",
+      "path": "代码随想录学习笔记/动态规划/41.最长上升子序列.md"
+    },
+    {
+      "basename": "40.股票问题总结",
+      "path": "代码随想录学习笔记/动态规划/40.股票问题总结.md"
+    },
+    {
+      "basename": "39.买卖股票的最佳时机含手续费",
+      "path": "代码随想录学习笔记/动态规划/39.买卖股票的最佳时机含手续费.md"
+    },
+    {
+      "basename": "38.动规周总结",
+      "path": "代码随想录学习笔记/动态规划/38.动规周总结.md"
+    },
+    {
+      "basename": "37.最佳买卖股票时机含冷冻期",
+      "path": "代码随想录学习笔记/动态规划/37.最佳买卖股票时机含冷冻期.md"
+    },
+    {
+      "basename": "36.买卖股票的最佳时机IV",
+      "path": "代码随想录学习笔记/动态规划/36.买卖股票的最佳时机IV.md"
+    },
+    {
+      "basename": "35.买卖股票的最佳时机III",
+      "path": "代码随想录学习笔记/动态规划/35.买卖股票的最佳时机III.md"
+    },
+    {
+      "basename": "34.买卖股票的最佳时机II",
+      "path": "代码随想录学习笔记/动态规划/34.买卖股票的最佳时机II.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}

@@ -1,0 +1,194 @@
+{
+  "workspaces": {
+    "工作布局": {
+      "main": {
+        "id": "2a5454805dc94b17",
+        "type": "split",
+        "children": [
+          {
+            "id": "91a6cd65e7c28a44",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "035b25c89c85d4bb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "代码随想录学习笔记/算法性能分析/代码的内存消耗.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9d6707c03ef503cd",
+        "type": "split",
+        "children": [
+          {
+            "id": "8271550dbef0c807",
+            "type": "tabs",
+            "dimension": 78.90946502057614,
+            "children": [
+              {
+                "id": "476f253bd5bc4c6d",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "18990e07a7cf0182",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#install",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "802560e623f986b2",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "030e92d4d5fd7bdc",
+                "type": "leaf",
+                "state": {
+                  "type": "file-tree-view",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "2f1005d50e083765",
+            "type": "tabs",
+            "dimension": 21.090534979423868,
+            "children": [
+              {
+                "id": "031e170689f5c0a6",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "8236c5bdb97d04a2",
+        "type": "split",
+        "children": [
+          {
+            "id": "5e0a9feb3a7377b8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c468999629832143",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "代码随想录学习笔记/算法性能分析/代码的内存消耗.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "86bb7f95cf28c185",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "代码随想录学习笔记/算法性能分析/代码的内存消耗.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "553a7be873e2101d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "11dac5b0ff23f69f",
+                "type": "leaf",
+                "state": {
+                  "type": "quiet-outline",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "3b07c15a9dbbd0a2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d304f070fe82fefe",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "workspaces:管理工作区布局": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false
+        }
+      },
+      "active": "11dac5b0ff23f69f"
+    }
+  },
+  "active": "工作布局"
+}
