@@ -3,7 +3,7 @@
   "showUnsupportedFiles": true,
   "showLineNumber": false,
   "spellcheck": false,
-  "promptDelete": true,
+  "promptDelete": false,
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "./attachments",

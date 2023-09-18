@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "MySQL索引详解",
+      "path": "C++学习/Mysql/MySQL索引详解.md"
     },
     {
-      "basename": "Git到Github",
-      "path": "C++学习/Git到Github.md"
+      "basename": "3.step 添加库",
+      "path": "C++学习/cmake/3.step 添加库.md"
+    },
+    {
+      "basename": "2.step",
+      "path": "C++学习/cmake/2.step.md"
+    },
+    {
+      "basename": "cmake",
+      "path": "C++学习/cmake/cmake.md"
     },
     {
       "basename": "6.step build目录介绍",
@@ -21,18 +29,6 @@
       "path": "C++学习/cmake/4.step 将库设置为可选项.md"
     },
     {
-      "basename": "cmake",
-      "path": "C++学习/cmake/cmake.md"
-    },
-    {
-      "basename": "3.step 添加库",
-      "path": "C++学习/cmake/3.step 添加库.md"
-    },
-    {
-      "basename": "2.step",
-      "path": "C++学习/cmake/2.step.md"
-    },
-    {
       "basename": "1.step 构建最小项目",
       "path": "C++学习/cmake/1.step 构建最小项目.md"
     },
@@ -41,12 +37,24 @@
       "path": "C++学习/cmake/0.step.md"
     },
     {
+      "basename": "Git到Github",
+      "path": "C++学习/GIT/Git到Github.md"
+    },
+    {
       "basename": "git",
-      "path": "C++学习/git.md"
+      "path": "C++学习/GIT/git.md"
+    },
+    {
+      "basename": "Qt一篇全面的信号和槽函数机制总结",
+      "path": "C++学习/QT信号与槽/Qt一篇全面的信号和槽函数机制总结.md"
     },
     {
       "basename": "C++ leran note",
       "path": "C++学习/C++ leran note.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "2.1 生产者消费者模型",
